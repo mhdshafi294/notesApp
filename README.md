@@ -1,4 +1,10 @@
-# co0764af7bcc2738e9be81e9a
+# Note App using React
+
+In this project in the Scrimba course we added and fixed the following:
+1. Sync Notes with localStorage
+2. Add note summery title
+3. Move modified notes to the top of the list
+4. Delete Notes
 
 Quick start:
 
